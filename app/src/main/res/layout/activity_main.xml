@@ -14,7 +14,8 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <ListView  app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    <ListView
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
         android:id="@+id/listView"
         android:layout_width="fill_parent"
         android:layout_height="match_parent" />
